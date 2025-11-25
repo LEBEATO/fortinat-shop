@@ -1,5 +1,5 @@
 
-import { User, Transaction } from '../types';
+import { User, Transaction } from '../../types';
 
 const USERS_KEY = 'fn_users_db';
 

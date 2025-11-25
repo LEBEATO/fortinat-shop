@@ -1,5 +1,5 @@
 
-import { Cosmetic } from '../types';
+import { Cosmetic } from '../../types';
 
 const BASE_URL = 'https://fortnite-api.com/v2';
 const CACHE_TTL = 60 * 1000 * 2; // 2 minutos de cache para sincronização
